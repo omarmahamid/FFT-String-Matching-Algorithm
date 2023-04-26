@@ -3,10 +3,7 @@ String matching algorithm using Fast Fourier Transform
 
 
 
-# The Problem :
 
-Given a text of length n and a pattern of length m, find all occurrences of the pattern in the text.
+# Algorithm
 
-
-# Solution
-
+![image](https://user-images.githubusercontent.com/59146036/234602420-b336e17f-06ee-404b-a8ad-a37f41595e37.png)
